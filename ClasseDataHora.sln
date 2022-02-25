@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseDataHora", "ClasseDataHora\ClasseDataHora.csproj", "{9512019D-2F7E-4398-9585-139EF634F970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9512019D-2F7E-4398-9585-139EF634F970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9512019D-2F7E-4398-9585-139EF634F970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9512019D-2F7E-4398-9585-139EF634F970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9512019D-2F7E-4398-9585-139EF634F970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCB104BF-42ED-4C21-BD37-A0510A281B2A}
+	EndGlobalSection
+EndGlobal
