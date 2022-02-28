@@ -18,7 +18,9 @@ namespace ClasseDataHora
 
         public Hora()
         {
-
+            Horas = 00;
+            Minuto = 00;
+            Segundo = 00;
         }
 
         public Hora(int horas, int minuto, int segundo)
@@ -36,6 +38,11 @@ namespace ClasseDataHora
             Horas = h.Horas;
             Minuto = h.Minuto;
             Segundo = h.Segundo;
+        }
+
+        public override string ToString()
+        {
+            return Horas+ ":"+Minuto+":"+Segundo+" ";
         }
     }
 }
